@@ -15,7 +15,7 @@ const newPageLoad = async () => {
     hideWatchIcon.style.display = "none";
 
     // Hide Facebook Short Videos
-    const selectClass = document.querySelector(".x9otpla");
-    selectClass.style.display = "none";
+    // const selectClass = document.querySelector(".x9otpla");
+    // selectClass.style.display = "none";
   }
 };
